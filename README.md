@@ -1,1 +1,3 @@
 # Database-Management-Systems
+
+Led a project to upgrade the Master Program Office's database, focusing on improving the student attendance system and faculty evaluation process. The initiative aimed to efficiently track low-attendance students, monitor first-day class participation and gather transparent student feedback on faculty. Developed a comprehensive conceptual schema to integrate data involving students, departments, and faculty, ensuring data integrity and consistency. This enhancement was pivotal in fostering a data-driven approach to academic administration, allowing for more effective decision-making and resource allocation within the Master Program Office.
